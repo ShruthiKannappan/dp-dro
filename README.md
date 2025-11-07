@@ -7,6 +7,7 @@ It contains the full project code and the final **report** for documentation pur
 ## Contents
 - Complete project source code
 - `pai_dro_final_report.pdf` — final report describing design, implementation, and results
+- `pai_dro_presentation.pdf` — presentation slides
 
 ## Acknowledgment
 Developed as part of a collaborative course project under [Privacy in AI DA-5001].
